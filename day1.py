@@ -76,7 +76,13 @@
  print("\t world ")
  print(" This is backslash :\\")
 
+#Check positive or negative number 
 
+num=int(input("enter the value to check positive or negative"
+              if(num>0):
+                print("positive number")
+              else:
+                 print("negative number")
 
 
 
