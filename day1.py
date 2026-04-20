@@ -85,5 +85,15 @@ num=int(input("enter the value to check positive or negative"
                  print("negative number")
 
 
+#simple intrest 
 
+   p=float(input("Enter the principle ammount")
+   t=float(input("Enter the time")
+   r=float(input("Enter the intrest rate")
+     SI=p*t*r/100
+
+    totalAmt=p+SI
+
+   print("simple intrest"SI)   
+   print("Total amt"totalAmt)
 
