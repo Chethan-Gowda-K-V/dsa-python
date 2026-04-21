@@ -96,4 +96,3 @@ num=int(input("enter the value to check positive or negative"
 
    print("simple intrest"SI)   
    print("Total amt"totalAmt)
-
